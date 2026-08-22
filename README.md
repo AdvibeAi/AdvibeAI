@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**AdvibeAi/AdvibeAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm AdvibeAi 👋
 
-Here are some ideas to get you started:
+*AI-Powered Web Solutions | Vibe Coder*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I build smart workflows and AI-powered websites
+⚡ *Tools*: n8n, WordPress, AI Agents, Prompt Engineering
+📚 *Learning in Public*: AI Automation & Web Development
+
+---
+
+### 💼 Skills
+- *AI Integration*: AI Agents, n8n Workflows, Prompt Engineering
+- *Web Dev*: WordPress, Website Building, Automation
+- *Tools*: GitHub, ChatGPT, Claude, Cursor
+
+### 🌱 Learning Journey
+2024 → Started with WordPress  
+2025 → Learned AI Tools + Automation  
+2026 → Building AI Products & Client Projects
+
+### 📊 What I'm Building
+Turning ideas → prompts → production-ready products
+
+### 📫 Let's Connect
+- *Email*: innocentkop940@gmail.com
+- *Location*: multan, Pakistan
+- *Status*: Open for Freelance Projects & Collabs
+
+---
+Building the future with AI + Code
